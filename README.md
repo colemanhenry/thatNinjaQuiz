@@ -1,4 +1,5 @@
 # thatNinjaQuiz
+Using HTML, JS, CSS & Bootstrap
 
 This is a short Quiz to test your Ninja skills, which at its peak in the early 90's was amazing.
 
